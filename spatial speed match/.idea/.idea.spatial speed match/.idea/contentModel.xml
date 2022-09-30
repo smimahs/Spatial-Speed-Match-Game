@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\afraco\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\afraco\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_spatial speed match.-1733804826.00" t="ExcludeRecursive" />
+    <e p="E:\unity me\spatial speed match" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Attributes" t="Include">
+          <e p="FoldAttribute.cs" t="Include" />
+        </e>
+        <e p="RestClient" t="Include">
+          <e p="DemoScene" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="MainScript.cs" t="Include" />
+              <e p="Model" t="Include">
+                <e p="Photo.cs" t="Include" />
+                <e p="Post.cs" t="Include" />
+                <e p="Todo.cs" t="Include" />
+                <e p="User.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Packages" t="Include">
+            <e p="Proyecto26.RestClient" t="Include">
+              <e p="Helpers" t="Include">
+                <e p="Common.cs" t="Include" />
+                <e p="Extensions.cs" t="Include" />
+                <e p="HttpBase.cs" t="Include" />
+                <e p="JsonHelper.cs" t="Include" />
+                <e p="RequestException.cs" t="Include" />
+                <e p="RequestHelper.cs" t="Include" />
+                <e p="RequestHelperExtension.cs" t="Include" />
+                <e p="ResponseHelper.cs" t="Include" />
+                <e p="StaticCoroutine.cs" t="Include" />
+              </e>
+              <e p="RestClient.cs" t="Include" />
+              <e p="RestClientPromise.cs" t="Include" />
+            </e>
+            <e p="RSG.Promise" t="Include">
+              <e p="EnumerableExt.cs" t="Include" />
+              <e p="Exceptions" t="Include">
+                <e p="PromiseException.cs" t="Include" />
+                <e p="PromiseStateException.cs" t="Include" />
+              </e>
+              <e p="Promise.cs" t="Include" />
+              <e p="Promise_NonGeneric.cs" t="Include" />
+              <e p="PromiseHelpers.cs" t="Include" />
+              <e p="PromiseTimer.cs" t="Include" />
+              <e p="Tuple.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="audioController.cs" t="Include" />
+          <e p="card.cs" t="Include" />
+          <e p="chapterMenuSliding.cs" t="Include" />
+          <e p="Fa.cs" t="Include" />
+          <e p="GameController.cs" t="Include" />
+          <e p="result.cs" t="Include" />
+          <e p="timer.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="spatial speed match.sln" t="IncludeFlat" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
