@@ -1,0 +1,568 @@
+fileFormatVersion: 2
+guid: 24bec1949e0ebb448a3876b2e2d8eaf0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2688860679172727607
+    second: ready_0
+  - first:
+      213: -3600751951263247020
+    second: ready_1
+  - first:
+      213: -7090527439271974264
+    second: ready_2
+  - first:
+      213: 3683513874621489586
+    second: ready_3
+  - first:
+      213: 3982860600732605688
+    second: ready_4
+  - first:
+      213: -3530752181743336581
+    second: ready_5
+  - first:
+      213: -7958426087214998511
+    second: ready_6
+  - first:
+      213: 4199531847810492846
+    second: ready_7
+  - first:
+      213: -7489086352431436178
+    second: ready_8
+  - first:
+      213: 5178340253007283776
+    second: ready_9
+  - first:
+      213: 5025844308113868149
+    second: ready_10
+  - first:
+      213: -3564044666448049206
+    second: ready_11
+  - first:
+      213: -9200768143995760053
+    second: ready_12
+  - first:
+      213: -3266920222838464180
+    second: ready_13
+  - first:
+      213: -6077650682555870469
+    second: ready_14
+  - first:
+      213: 4415663535259892101
+    second: ready_15
+  - first:
+      213: -3001691004915271179
+    second: ready_16
+  - first:
+      213: 5273276697741975367
+    second: ready_17
+  - first:
+      213: -987066502078571865
+    second: ready_18
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ready_0
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 3370
+        width: 668
+        height: 668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 972e4de0a33755e4f8a4e6dd8908014e
+      internalID: 2688860679172727607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ready_1
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 3370
+        width: 668
+        height: 668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cedc139361840884aaf2670bb8bfb1de
+      internalID: -3600751951263247020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ready_2
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 3370
+        width: 669
+        height: 668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30fb1ad448282814090a811a5de61106
+      internalID: -7090527439271974264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ready_3
+      rect:
+        serializedVersion: 2
+        x: 2267
+        y: 2980
+        width: 1620
+        height: 1053
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f53b8b65312449b4ab4ca9788c8729a3
+      internalID: 3683513874621489586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ready_4
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 2544
+        width: 664
+        height: 664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d914dcdf2df1647addfef619832d9d
+      internalID: 3982860600732605688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ready_5
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 2580
+        width: 668
+        height: 668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad47741765732d44bbb65d152ee6d57
+      internalID: -3530752181743336581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ready_6
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 2611
+        width: 40
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7416e5fd95bb2d4e9de76c8122e37b3
+      internalID: -7958426087214998511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ready_7
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 3046
+        width: 179
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4752c93f9cbd9c54fbae2f0f31cee036
+      internalID: 4199531847810492846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ready_8
+      rect:
+        serializedVersion: 2
+        x: 1852
+        y: 2766
+        width: 164
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba4d61ea27f71b949922fc298feb0375
+      internalID: -7489086352431436178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ready_9
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1798
+        width: 667
+        height: 668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4654b72ba1f7b14187c936140fcdfa7
+      internalID: 5178340253007283776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ready_10
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 2353
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ecd4f3a2eadb24899f0ffdf865c913
+      internalID: 5025844308113868149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ready_11
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 2353
+        width: 85
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6b29ecc71682549a4b670c08ab5347
+      internalID: -3564044666448049206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ready_12
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 1145
+        width: 945
+        height: 1319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59e3658019e46c4a94dc8057293db5a
+      internalID: -9200768143995760053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ready_13
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 1147
+        width: 945
+        height: 1321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23edab70bca48b64e88b96081d1ce91d
+      internalID: -3266920222838464180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ready_14
+      rect:
+        serializedVersion: 2
+        x: 3381
+        y: 2132
+        width: 119
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb9faf96a015c14b90e7a26f2a0239e
+      internalID: -6077650682555870469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ready_15
+      rect:
+        serializedVersion: 2
+        x: 3658
+        y: 2128
+        width: 120
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b06c34933771648a62f9ae7be0c4ac
+      internalID: 4415663535259892101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ready_16
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 367
+        width: 945
+        height: 1319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaaa5a272296f004a89cb443bb7d9fe8
+      internalID: -3001691004915271179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ready_17
+      rect:
+        serializedVersion: 2
+        x: 3361
+        y: 1675
+        width: 182
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9e9329ad6f34744ae572c03b3d3409
+      internalID: 5273276697741975367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ready_18
+      rect:
+        serializedVersion: 2
+        x: 3675
+        y: 1675
+        width: 182
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc38020e4e9dec4aaa79b5ba0c27e3a
+      internalID: -987066502078571865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 2e986003681f4434bb6c20f2be9107dc
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
